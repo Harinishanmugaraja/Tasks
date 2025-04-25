@@ -1,0 +1,21 @@
+.task-form {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically if needed */
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.task-form input {
+  width: 250px; /* Reduced width */
+  padding: 8px;
+  text-align: center; /* Center text inside input */
+}
+
+.task-form button {
+  padding: 8px 12px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
